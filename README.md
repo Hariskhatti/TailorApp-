@@ -178,7 +178,7 @@ TailorApp/
 
 # 👨‍💻 **Author**
 
-Your Name Here
+Haris Khatti
 
 ---
 
